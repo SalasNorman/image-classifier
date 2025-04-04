@@ -1,9 +1,15 @@
 # **Image Classifier**  
 This project uses a pre-trained **ConvNeXt** model on **ImageNet** to classify images using a **Gradio** interface. You can upload an image, and the model will predict the top 5 categories.
 
-## **Files in this Repo**:
+# **Files in this Repo**:
 - **`app.py`**: Python script for running the image classifier.
 - **`requirements.txt`**: Dependency file listing the necessary Python libraries.
+  
+## **Table of Contents**:
+- [Deploy to Locally](#deploy-to-locally)
+- [Deploy to Hugging Face Spaces](#deploy-to-hugging-face-spaces)
+- [Deploy to GitHub Codespaces](#deploy-to-github-codespaces)
+
 
 ## **Deploy to Locally**:
 
