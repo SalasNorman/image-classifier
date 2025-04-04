@@ -5,7 +5,7 @@ This project uses a pre-trained **ConvNeXt** model on **ImageNet** to classify i
 - **`app.py`**: Python script for running the image classifier.
 - **`requirements.txt`**: Dependency file listing the necessary Python libraries.
 
-## **Getting Started Locally**:
+## **Deploy to Locally**:
 
 ### **1. Clone the repository**:
 ```bash
