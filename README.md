@@ -7,18 +7,18 @@ This project uses a pre-trained **ConvNeXt** model on **ImageNet** to classify i
 
 ## **Deploy to Locally**:
 
-### **1. Clone the repository**:
+1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/image-classifier.git
 cd image-classifier
 ```
 
-### **2. Install dependencies**:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### **3. Run the app**:
+3. Run the app:
 ```bash
 python app.py
 ```
