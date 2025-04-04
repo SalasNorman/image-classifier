@@ -3,14 +3,16 @@ import gradio as gr
 from torchvision import transforms
 from PIL import Image
 from torchvision.models import convnext_base
+import requests
 
 # Load pre-trained ConvNeXt model
 model = convnext_base(weights="DEFAULT")
 model.eval()  # Set to evaluation mode
 
-# ImageNet class labels
+# ImageNet class labels (download directly as text)
 LABELS_URL = "https://raw.githubusercontent.com/pytorch/hub/master/imagenet_classes.txt"
-labels = [line.strip() for line in torch.hub.load_state_dict_from_url(LABELS_URL).split("\n")]
+response = requests.get(LABELS_URL)
+labels = response.text.split("\n")
 
 # Image preprocessing
 def preprocess_image(image):
