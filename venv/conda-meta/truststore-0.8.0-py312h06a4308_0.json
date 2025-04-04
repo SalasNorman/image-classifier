@@ -1,0 +1,193 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/truststore-0.8.0-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/truststore-0.8.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/truststore/__init__.py",
+    "lib/python3.12/site-packages/truststore/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/truststore/__pycache__/_api.cpython-312.pyc",
+    "lib/python3.12/site-packages/truststore/__pycache__/_macos.cpython-312.pyc",
+    "lib/python3.12/site-packages/truststore/__pycache__/_openssl.cpython-312.pyc",
+    "lib/python3.12/site-packages/truststore/__pycache__/_ssl_constants.cpython-312.pyc",
+    "lib/python3.12/site-packages/truststore/__pycache__/_windows.cpython-312.pyc",
+    "lib/python3.12/site-packages/truststore/_api.py",
+    "lib/python3.12/site-packages/truststore/_macos.py",
+    "lib/python3.12/site-packages/truststore/_openssl.py",
+    "lib/python3.12/site-packages/truststore/_ssl_constants.py",
+    "lib/python3.12/site-packages/truststore/_windows.py",
+    "lib/python3.12/site-packages/truststore/py.typed"
+  ],
+  "fn": "truststore-0.8.0-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/conda/pkgs/truststore-0.8.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "ad93bd626fc17c1606394fe258b4ed18",
+  "name": "truststore",
+  "package_tarball_full_path": "/opt/conda/pkgs/truststore-0.8.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca",
+        "sha256_in_prefix": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca",
+        "size_in_bytes": 1086
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "832dc0feea000e9ab49f681a3c80961148074bfd440bde01be1b34f3ffb96805",
+        "sha256_in_prefix": "832dc0feea000e9ab49f681a3c80961148074bfd440bde01be1b34f3ffb96805",
+        "size_in_bytes": 4026
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "11d5235b73c1fbbf4de847222d489f65ebbf8d0238d885907047ea8a972b8d80",
+        "sha256_in_prefix": "11d5235b73c1fbbf4de847222d489f65ebbf8d0238d885907047ea8a972b8d80",
+        "size_in_bytes": 1452
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "sha256_in_prefix": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore-0.8.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9df0b8c5044870559ea73cbb28b685ede00768e1e436f3025bcdd2e2a648756c",
+        "sha256_in_prefix": "9df0b8c5044870559ea73cbb28b685ede00768e1e436f3025bcdd2e2a648756c",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ab34cb487f0fbc0918d5fafa410daf57e2b013f33cdf0757ba0b6925a3ff01b3",
+        "sha256_in_prefix": "ab34cb487f0fbc0918d5fafa410daf57e2b013f33cdf0757ba0b6925a3ff01b3",
+        "size_in_bytes": 403
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d6af519301c2d959bd5f1f62a4390aa2cd3b9429237f711e9ac3fea3a3a1f74",
+        "sha256_in_prefix": "7d6af519301c2d959bd5f1f62a4390aa2cd3b9429237f711e9ac3fea3a3a1f74",
+        "size_in_bytes": 573
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__pycache__/_api.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5f3e72925866211dc7d0e637cf8fb9ffd81615704472df043314ccd6fc61afb",
+        "sha256_in_prefix": "e5f3e72925866211dc7d0e637cf8fb9ffd81615704472df043314ccd6fc61afb",
+        "size_in_bytes": 15673
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__pycache__/_macos.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e3f6a1eccf93c56a2d39c0d9fafd1b1471a2f531bf0952c99255c39ab484ecb",
+        "sha256_in_prefix": "5e3f6a1eccf93c56a2d39c0d9fafd1b1471a2f531bf0952c99255c39ab484ecb",
+        "size_in_bytes": 16617
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__pycache__/_openssl.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e33e2c9fa4f2e4333acce7a8bd36d87834ac3f34bd97c0211417ca36bd2262f9",
+        "sha256_in_prefix": "e33e2c9fa4f2e4333acce7a8bd36d87834ac3f34bd97c0211417ca36bd2262f9",
+        "size_in_bytes": 2170
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__pycache__/_ssl_constants.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a211c924f55ab6236a85cf2802b014122bdcf30ee8be3952191ad1d5054f6a3",
+        "sha256_in_prefix": "3a211c924f55ab6236a85cf2802b014122bdcf30ee8be3952191ad1d5054f6a3",
+        "size_in_bytes": 1054
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/__pycache__/_windows.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3732afd3cbdd00dc715f7ddaf866ffdc135734b3a611e4ef0943b37728a73e21",
+        "sha256_in_prefix": "3732afd3cbdd00dc715f7ddaf866ffdc135734b3a611e4ef0943b37728a73e21",
+        "size_in_bytes": 15461
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/_api.py",
+        "path_type": "hardlink",
+        "sha256": "5499f0b1ddf7feb3e8673287805d4346848294244447b0a2081150bb54255083",
+        "sha256_in_prefix": "5499f0b1ddf7feb3e8673287805d4346848294244447b0a2081150bb54255083",
+        "size_in_bytes": 9857
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/_macos.py",
+        "path_type": "hardlink",
+        "sha256": "063bc02a80235e17483eec69635db81c9205b300dbd29abc0e3ca7cc9395c2a7",
+        "sha256_in_prefix": "063bc02a80235e17483eec69635db81c9205b300dbd29abc0e3ca7cc9395c2a7",
+        "size_in_bytes": 17694
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/_openssl.py",
+        "path_type": "hardlink",
+        "sha256": "2cb519ed919a8a8fa2e5da4a2a328249e4ae7e69fa4fca62f650dc167bd2caad",
+        "sha256_in_prefix": "2cb519ed919a8a8fa2e5da4a2a328249e4ae7e69fa4fca62f650dc167bd2caad",
+        "size_in_bytes": 2324
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/_ssl_constants.py",
+        "path_type": "hardlink",
+        "sha256": "3540f87d529d483d36ae2efe75bd2d9ced15a8b3fd687bb3992b5c5bbb40974f",
+        "sha256_in_prefix": "3540f87d529d483d36ae2efe75bd2d9ced15a8b3fd687bb3992b5c5bbb40974f",
+        "size_in_bytes": 1130
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/_windows.py",
+        "path_type": "hardlink",
+        "sha256": "d71fc485139e27d40ad6c3008df9d90bb6b0608f149c12582fe4e30025182380",
+        "sha256_in_prefix": "d71fc485139e27d40ad6c3008df9d90bb6b0608f149c12582fe4e30025182380",
+        "size_in_bytes": 17468
+      },
+      {
+        "_path": "lib/python3.12/site-packages/truststore/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "truststore==0.8.0=py312h06a4308_0",
+  "sha256": "d398f8bac0ac5c0d5d4bcdd1d03300e4a2f5e5244a731415327660f61470b769",
+  "size": 43694,
+  "subdir": "linux-64",
+  "timestamp": 1701735810000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/truststore-0.8.0-py312h06a4308_0.conda",
+  "version": "0.8.0"
+}

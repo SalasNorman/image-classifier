@@ -1,0 +1,11 @@
+prefix=/workspaces/image-classifier/venv
+exec_prefix=${prefix}
+includedir=/workspaces/image-classifier/venv/include
+libdir=/workspaces/image-classifier/venv/lib
+
+Name: Yaml-cpp
+Description: A YAML parser and emitter for C++
+Version: 0.8.0
+Requires:
+Libs: -L${libdir} -lyaml-cpp
+Cflags: -I${includedir}
