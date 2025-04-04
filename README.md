@@ -6,12 +6,12 @@ This project uses a pre-trained **ConvNeXt** model on **ImageNet** to classify i
 - **`requirements.txt`**: Dependency file listing the necessary Python libraries.
   
 ## **Table of Contents**:
-- [Deploy to Locally](#deploy-to-locally)
+- [Deploy to Local](#deploy-to-local)
 - [Deploy to Hugging Face Spaces](#deploy-to-hugging-face-spaces)
 - [Deploy to GitHub Codespaces](#deploy-to-github-codespaces)
 
 
-## **Deploy to Locally**:
+## **Deploy to Local**:
 
 1. Clone the repository:
 ```bash
