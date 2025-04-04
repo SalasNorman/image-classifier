@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-This will launch the Gradio interface locally. You can upload images to see predictions from the **ConvNeXt** model trained on **ImageNet**.
+This will launch the Gradio interface locally. Now, you can upload images to see predictions.
 
 ## **Deploy to Hugging Face Spaces**:
 
